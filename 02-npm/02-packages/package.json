@@ -1,0 +1,14 @@
+{
+  "name": "02-packages",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Salsabila Rimasei",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
